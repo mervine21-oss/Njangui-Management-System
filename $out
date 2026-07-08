@@ -1,0 +1,104 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 1 /Kids [3 0 R] >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 1298 >>
+stream
+q
+0.000 0.400 0.800 rg
+0 732 612 60 re f
+Q
+BT
+/F1 18 Tf
+50 762 Td
+1 1 1 rg
+(DigiTon Payment Receipt) Tj
+ET
+q
+0.961 0.961 0.969 rg
+0 682 612 18 re f
+Q
+q
+0.961 0.961 0.969 rg
+0 646 612 18 re f
+Q
+q
+0.961 0.961 0.969 rg
+0 610 612 18 re f
+Q
+q
+0.961 0.961 0.969 rg
+0 574 612 18 re f
+Q
+q
+0.961 0.961 0.969 rg
+0 538 612 18 re f
+Q
+q
+0.961 0.961 0.969 rg
+0 502 612 18 re f
+Q
+q
+0.961 0.961 0.969 rg
+0 466 612 18 re f
+Q
+BT
+/F1 12 Tf
+50 712 Td
+0 -18 Td
+0 0 0 rg
+(-----------------------) Tj
+0 -18 Td
+(Receipt ID: 7) Tj
+0 -18 Td
+(Gateway Ref: 341a2384b64af6f5732a) Tj
+0 -18 Td
+(Date: 07/07/2026 08:23) Tj
+0 -18 Td
+(User ID: 16) Tj
+0 -18 Td
+(Group: ton2) Tj
+0 -18 Td
+(Network: MTN) Tj
+0 -18 Td
+(Phone: +237686772855) Tj
+0 -18 Td
+(Amount: 250,000.00 XAF) Tj
+0 -18 Td
+(Status: Success) Tj
+0 -18 Td
+(Thank you for your contribution.) Tj
+0 -18 Td
+(---- Payment Details ----) Tj
+0 -18 Td
+(07/07/2026                     John                 250000       success              341a2384b6          ) Tj
+0 -18 Td
+(06/07/2026                     Alice                150000       success              9b12efab34          ) Tj
+0 -18 Td
+(05/07/2026                     Bob                  100000       failed               1122aa3344          ) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+xref
+0 6
+0000000000 65535 f
+0000000010 00000 n
+0000000062 00000 n
+0000000122 00000 n
+0000000251 00000 n
+0000001605 00000 n
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1676
+%%EOF

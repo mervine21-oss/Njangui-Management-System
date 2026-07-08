@@ -1,0 +1,11 @@
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /DigiTon/public/
+  
+  # Prevent access to directories and files that should not be accessible
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  
+  # Redirect all requests to index.php (optional, for future SPA routing)
+  # RewriteRule ^(.*)$ index.php?path=$1 [QSA,L]
+</IfModule>
