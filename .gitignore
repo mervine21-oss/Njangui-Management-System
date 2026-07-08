@@ -1,0 +1,27 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# PHP / Composer
+/vendor/
+/composer.phar
+
+# Local environment and logs
+*.log
+*.tmp
+*.bak
+storage/
+
+# Uploads (keep .gitkeep)
+uploads/*
+!uploads/.gitkeep
+
+# Local config overrides
+config/*.local.php
+
+# Windows / WAMP artifacts
+*.lnk
